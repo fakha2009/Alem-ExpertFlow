@@ -4,9 +4,11 @@
 [![Next.js](https://img.shields.io/badge/Next.js-16.2-111827?logo=nextdotjs)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
-[![Vercel](https://img.shields.io/badge/Deployment-Vercel-111827?logo=vercel)](https://vercel.com/)
+[![Vercel](https://img.shields.io/badge/Deployment-Vercel-111827?logo=vercel)](https://alem-expertflow.vercel.app/)
 
 Alem ExpertFlow is a full-stack operations platform for request intake, expert capacity management, explainable skills-based matching and auditable assignment workflows.
+
+Production URL: [alem-expertflow.vercel.app](https://alem-expertflow.vercel.app/). The web deployment and public login are healthy; authenticated production workflows require the unavailable Supabase project to be restored or replaced, as documented in [OPS-001](docs/security-audit.md#ops-001--unavailable-hosted-database).
 
 ## Product overview
 

@@ -134,6 +134,9 @@ The final local gate passed ESLint, TypeScript, 10 tests, `npm audit` with zero 
 | Chromium desktop login | HTTP 200, no console warnings/errors |
 | Chromium mobile login | 390 px viewport, no horizontal overflow |
 | Security response headers | CSP nonce and baseline headers present |
+| Vercel production build | `Ready`; canonical alias serves login over HTTPS |
+| Production login shell | HTTP 200, no layout overflow; CSP and HSTS verified |
+| Production authenticated request | Fails closed with generic HTTP 500 because OPS-001 remains unresolved |
 | Production database migrations | Blocked: hosted Supabase project unavailable |
 
 ## Residual risks
