@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Alem ExpertFlow">
+  <rect width="64" height="64" rx="14" fill="#0f7ea5"/>
+  <path d="M32 14 46 20v11c0 9-5.8 15.8-14 19-8.2-3.2-14-10-14-19V20l14-6Z" fill="none" stroke="#fff" stroke-width="4" stroke-linejoin="round"/>
+  <path d="m26 31 4 4 8-9" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
